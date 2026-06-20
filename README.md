@@ -1,7 +1,5 @@
 # Student_placement_salary_analysis
 
-# Student Employability & Salary Insights Dashboard
-
 ## Project Overview
 
 This Power BI dashboard analyzes student placement outcomes and salary trends to identify the key factors influencing employability and compensation. The project focuses on understanding how skills, internships, academic performance, and backlogs impact placement success and salary growth.
